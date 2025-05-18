@@ -19,9 +19,22 @@ To design an interactive Excel dashboard that can visualize and analyze sales da
 - Cleaned and prepared raw data by handling missing values and formatting issues.
 - Used Power Query to merge and transform datasets.
 - Created Pivot Tables for aggregating sales, profit, and customer data.
-- Built interactive charts and graphs (funnel, line, pie, bar) for key metrics.
+- Built interactive charts and graphs (funnel, line, pie, bar, map) for key metrics.
 - Added slicers to filter by year and category dynamically.
 - Designed a clean, interactive dashboard for intuitive analysis.
 
-  ## Dashboard
+## Dashboard
   ![Screenshot ](https://github.com/user-attachments/assets/4633b19a-647f-41c1-b5f4-b9f745bb7074)
+
+## Project Insights:
+- Phones and Chairs are the top-selling categories, indicating high demand in tech and office furniture.
+- Sales show noticeable peaks in March, September, and November, suggesting seasonal purchasing behavior.
+- The Technology category consistently yields the highest profits across all years.
+- States in the Northeast and West regions contribute more significantly to sales revenue.
+- Customer engagement increased in 2016 and 2017, suggesting improved outreach or market expansion.
+- Top customers like Sanjit Chand and Mitch Willingham account for a large share of high-value transactions.
+- Room for growth is seen in low-performing categories like Art, Labels, and Fasteners.
+
+## Final Conclusion
+This interactive dashboard provides a clear view of company performance through dynamic, data-driven insights. To improve sales and profitability, the company should focus on stocking high-demand categories (like Phones and Technology), launching promotions during seasonal spikes, and targeting high-performing regions. Personalized marketing for top customers and enhanced strategies for underperforming products can further boost revenue. Leveraging tools like Excel Pivot Tables, Power Query, and Slicers allows for ongoing, adaptable sales strategy development to support sustainable growth.
+
