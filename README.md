@@ -2,3 +2,5 @@
 ## Project Objective
 To design an interactive Excel dashboard that can visualize and analyze sales data across product categories, regions, and time. The goal is to derive actionable insights that support data-driven decisions for improving sales performance and business growth.
 
+## Dataset used
+- <a href="https://github.com/srishti34/Sales_Data_Analysis_Dashboard/blob/main/salesdata_analysis.xlsx">Dataset</a>
