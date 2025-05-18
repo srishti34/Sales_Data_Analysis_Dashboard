@@ -1,2 +1,4 @@
-# Sales_Data_Analysis_Dashboard
-I developed an interactive sales analytics dashboard using MS Excel to visualize and analyze sales performance across various categories and years. The includes dynamic visual elements to provide insights by doing data processing, data cleaning and data visualization.   
+# Sales_Data_Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+To design an interactive Excel dashboard that can visualize and analyze sales data across product categories, regions, and time. The goal is to derive actionable insights that support data-driven decisions for improving sales performance and business growth.
+
